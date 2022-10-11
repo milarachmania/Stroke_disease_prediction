@@ -12,3 +12,5 @@ The objectives of this study are to answer these following question :
 - Are stroke patients only experienced by the elderly ?
 - What is the health condition of stroke patients ?
 - What is the best model to predict stroke patient ?
+
+Please find me on medium here https://medium.com/@rachmaniamila/uncover-the-fact-of-second-death-cause-in-the-world-who-those-are-suffered-stroke-b22f5f986642
